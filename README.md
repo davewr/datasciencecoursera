@@ -1,4 +1,4 @@
 datasciencecoursers
 ===================
 
-Coursera Data Scince ToolBox
+Coursera Data Science ToolBox
